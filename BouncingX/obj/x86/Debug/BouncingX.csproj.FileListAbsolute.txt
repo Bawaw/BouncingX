@@ -1,0 +1,10 @@
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\BouncingX\bin\Debug\BouncingX.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\BouncingX\bin\Debug\BouncingX.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\BouncingX\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\BouncingX\obj\x86\Debug\BouncingX.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\BouncingX\obj\x86\Debug\BouncingX.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\BouncingX\BouncingX\obj\x86\Debug\BouncingX.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\BouncingX\BouncingX\obj\x86\Debug\BouncingX.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\BouncingX\BouncingX\bin\Debug\BouncingX.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\BouncingX\BouncingX\bin\Debug\BouncingX.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\BouncingX\BouncingX\obj\x86\Debug\ResolveAssemblyReference.cache
